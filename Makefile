@@ -3,7 +3,7 @@ CC = gcc
 CFLAGS = -Wall
 
 # Source files
-SRCS = Max_Gochenour_libFS.c testfile2025.c
+SRCS = Max_Gochenour_libFS.c Max_Gochenour_testfile2025.c
 
 # Object files (automatically generated from source files)
 OBJS = $(SRCS:.c=.o)
